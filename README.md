@@ -9,7 +9,6 @@ Bem-vindo ao repositório de **Fundamentos de Kotlin**! Este projeto é dedicado
 O repositório contém exemplos e exercícios para os seguintes tópicos:
 
 1. **Introdução ao Kotlin**
-   - Configuração do ambiente
    - "Hello, World!"
      
 2. **Tipos de Dados e Variáveis**
